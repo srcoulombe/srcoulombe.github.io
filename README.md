@@ -4,7 +4,8 @@
 ## Some (Possibly) Useful Biology-Inspired Python Data Structures
 ____
 <details><summary>A List of Random DNA Sequences</summary>
-
+<p>
+    
 ```python
 DNA_sequences = [ 
     "GAACAACCACACCTTAGCGAATTGATGCGCCGCTTCGGAATACCGTTTTG",
@@ -40,7 +41,7 @@ DNA_sequences = [
 ]
 ```
 
-
+</p>
 </details>
 <details><summary>Translation Dictionary</summary>
     
