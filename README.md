@@ -11,8 +11,9 @@ def hello():
 <details><summary>A List of Random DNA Sequences</summary>
 
 <p>
-    
-```python
+<code>
+    &nbsp;
+    ```python
 # Why isn't this working?
 DNA_sequences = [ 
 "GAACAACCACACCTTAGCGAATTGATGCGCCGCTTCGGAATACCGTTTTG",
@@ -47,6 +48,8 @@ DNA_sequences = [
 "GTAAGCTCGTACTGTAGTAGAGGCGACACGGGTAGGATCATCAGTAATAA"
 ]
 ```
+
+</code> 
 
 </p>
 
