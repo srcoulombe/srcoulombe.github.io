@@ -40,8 +40,9 @@ DNA_sequences = [
     "GTAAGCTCGTACTGTAGTAGAGGCGACACGGGTAGGATCATCAGTAATAA"
 ]
 
-~~~~
 
+~~~~
+</details>
 <details><summary>Translation Dictionary</summary>
     
 ~~~~
