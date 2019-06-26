@@ -5,7 +5,7 @@
 ____
 <details><summary>A List of Random DNA Sequences</summary>
 
-    ```python
+    `python
     DNA_sequences = [ 
         "GAACAACCACACCTTAGCGAATTGATGCGCCGCTTCGGAATACCGTTTTG",
         "GCTACCCGTTACTAAGCCCATCGCGATTTTCAGGTATCGTGCACGTAGGG",
@@ -38,7 +38,7 @@ ____
         "TCATGTAATGGGAGAGTATCCGCCGCAAGATCTAGTGCAATGGTGGTATA",
         "GTAAGCTCGTACTGTAGTAGAGGCGACACGGGTAGGATCATCAGTAATAA"
     ]
-    ```
+    `
 </details>
 <details><summary>Translation Dictionary</summary>
     
