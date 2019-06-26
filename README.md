@@ -11,6 +11,7 @@ def hello():
 <details><summary>A List of Random DNA Sequences</summary>
 
 ```python
+
 DNA_sequences = [ 
 "GAACAACCACACCTTAGCGAATTGATGCGCCGCTTCGGAATACCGTTTTG",
 "GCTACCCGTTACTAAGCCCATCGCGATTTTCAGGTATCGTGCACGTAGGG",
@@ -50,6 +51,7 @@ DNA_sequences = [
 <details><summary>Translation Dictionary</summary>
 
 ```python
+
 codon_code = {
 "AUC": "I", 
 "AGU": "S", 
