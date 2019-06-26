@@ -5,8 +5,7 @@
 ____
 <details><summary>A List of Random DNA Sequences</summary>
 
-~~~~
-
+```python
 DNA_sequences = [ 
     "GAACAACCACACCTTAGCGAATTGATGCGCCGCTTCGGAATACCGTTTTG",
     "GCTACCCGTTACTAAGCCCATCGCGATTTTCAGGTATCGTGCACGTAGGG",
@@ -39,14 +38,13 @@ DNA_sequences = [
     "TCATGTAATGGGAGAGTATCCGCCGCAAGATCTAGTGCAATGGTGGTATA",
     "GTAAGCTCGTACTGTAGTAGAGGCGACACGGGTAGGATCATCAGTAATAA"
 ]
+```
 
 
-~~~~
 </details>
 <details><summary>Translation Dictionary</summary>
     
-~~~~
-
+```python
 codon_code = {
     'AUC': 'I', 
     'AGU': 'S', 
@@ -113,6 +111,5 @@ codon_code = {
     'UAU': 'Y', 
     'UGG': 'W'
 }
-
-~~~~
+```
 </details>
