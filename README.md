@@ -3,6 +3,11 @@
 
 ## Some (Possibly) Useful Biology-Inspired Python Data Structures
 
+    ```python
+    def hello():
+        print( "hello" )
+    ```
+
 <details><summary>A List of Random DNA Sequences</summary>
 
     ```python
