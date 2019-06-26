@@ -3,18 +3,10 @@
 
 ## Some (Possibly) Useful Biology-Inspired Python Data Structures
 
+### A List of Random DNA Sequences
+
+
 ```python
-def hello():
-    print( "hello" )
-```
-
-<details><summary>A List of Random DNA Sequences</summary>
-
-<p>
-<code>
-    &nbsp;
-    ```python
-# Why isn't this working?
 DNA_sequences = [ 
 "GAACAACCACACCTTAGCGAATTGATGCGCCGCTTCGGAATACCGTTTTG",
 "GCTACCCGTTACTAAGCCCATCGCGATTTTCAGGTATCGTGCACGTAGGG",
@@ -49,16 +41,9 @@ DNA_sequences = [
 ]
 ```
 
-</code> 
-
-</p>
-
-</details>
-
-<details><summary>Translation Dictionary</summary>
+### A Translation Dictionary
 
 ```python
-
 codon_code = {
 "AUC": "I", 
 "AGU": "S", 
@@ -126,5 +111,3 @@ codon_code = {
 "UGG": "W"
 }
 ```
-
-</details>
