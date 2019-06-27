@@ -3,8 +3,8 @@
 
 ## Some (Possibly) Useful Biology-Inspired Python Data Structures
 
-### A List of Random DNA Sequences with non-NTP Characters
-
+<details><summary> A List of Random DNA Sequences with non-NTP Characters</summary>
+<p>
 
 ```python
 DNA_sequences = [ 
@@ -40,6 +40,9 @@ DNA_sequences = [
 "GTAAGCTCGTACTGTAGTAGAGGCGACACGGGTAGGATCATCAGTAATAA"
 ]
 ```
+
+</p>
+</details>
 
 ### A Translation Dictionary
 
