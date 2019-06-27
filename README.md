@@ -3,7 +3,7 @@
 
 ## Some (Possibly) Useful Biology-Inspired Python Data Structures
 
-<details><summary>A List of Random DNA Sequences with non-NTP Characters</summary>
+<details><summary>A List of Random DNA Sequences With non-NTP Characters</summary>
 <p>
 
 ```python
