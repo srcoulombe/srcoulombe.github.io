@@ -1,7 +1,7 @@
 # srcoulombe.github.io
 <!--Placeholder for an eventual website--> 
 
-## Some (Possibly) Useful Biology-Inspired Python Data Structures
+## Some (Possibly) Useful Biologically-Inspired Python Data Structures
 
 <details><summary>A List of Random DNA Sequences With non-NTP Characters</summary>
 <p>
