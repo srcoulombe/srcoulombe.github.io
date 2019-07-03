@@ -152,3 +152,40 @@ codon_code = {
 
 </p>
 </details>
+
+## Some Code Snippets for Practicing
+<details><summary>While-loop Practice</summary>
+<p>
+
+```python
+# we'll talk about the following line later
+from random import uniform 
+
+population_collapse = False
+gen_div = 0.39
+month_count = 0
+
+while # 1. fix this line
+    # 2. what do we need to do to month_count?
+    random_fluctuation = uniform( -0.14, 0.07 )
+    gen_div = gen_div + random_fluctuation
+    
+    # 3. how to handle case of population collapse?
+        
+        # keep this line
+        print( 'month {}; genetic diversity at {}, shutting down reserve.'.format( month_count, gen_div ) )
+        # 4. how to stop the program?
+    
+    if gen_div < 0.33:
+        while # 5. fix this line
+        
+            # keep these lines
+            print( 'month {}; genetic diversity is {}, sending requests for volunteers'.format( month_count, gen_div ) )
+            random_fluctation_from_reseeding = uniform( 0.0, 0.03 )
+            gen_div += random_fluctation_from_reseeding
+        print( 'month {}; genetic diversity is back to {}, thanks to volunteers'.format( month_count, gen_div ) )
+
+```
+
+</p>
+</details>
