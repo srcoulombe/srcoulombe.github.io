@@ -189,3 +189,28 @@ while # 1. fix this line
 
 </p>
 </details>
+
+<details><summary>Skeleton to "Un-Globalize" Python Code in an Interactive Setting</summary>
+<p>
+
+```python
+# Paste all your functions between these two ##s
+##
+
+##
+
+
+def main():
+  # Put your non-function code between these two ###s
+  ### 
+  
+  ###
+
+# keep the lines below - don't worry about them for now
+if __name__ == '__main__':
+  main()
+```
+
+</p>
+</details>
+
