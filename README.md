@@ -1,6 +1,17 @@
 # srcoulombe.github.io
 <!--Placeholder for an eventual website--> 
 
+## A Sample RNA Sequence 
+
+<details><summary>A sample RNA sequence</summary>
+<p>  
+```python
+  RNA="CAGCUGAGGUUUUCUUCCGGGCGAGUACUUUAUGGCUGGCAUGCUGAAC"
+```
+  
+</p>
+</details>
+
 ## Some (Possibly) Useful Biologically-Inspired Python Data Structures
 
 <details><summary>A List of Random DNA Sequences With non-NTP Characters</summary>
