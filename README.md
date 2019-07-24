@@ -1,6 +1,13 @@
 # srcoulombe.github.io
 <!--Placeholder for an eventual website--> 
 
+## Problem Sets 
+<details><summary>Link to Download Problem Set 1: Strings</summary>
+  
+  <a href="https://github.com/srcoulombe/programming-basics-with-python/blob/master/problem_sets/practice_set1_strings.zip">Link to download "problem set 1: strings" (zipped)</a>
+  
+</details>
+
 ## A Sample RNA Sequence 
 
 <details><summary>A sample RNA sequence</summary>
